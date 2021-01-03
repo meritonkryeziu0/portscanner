@@ -1,6 +1,7 @@
-#Python Port Scanner
+# Python Port Scanner
 
 A simple python script for port scanning with tcp.
+
 ```
 [foo@foobar:~/portscanner/]-$ python2 portscanner.py 127.0.0.1
 Open ports:[631, 9050, 41312]
